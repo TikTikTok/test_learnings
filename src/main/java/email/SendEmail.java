@@ -12,14 +12,15 @@ public class SendEmail {
 
     public static void main(String[] args) throws MessagingException {
 
-        String to = "chandan.singh116@gmail.com";
-        String from = "chandan.singh116@gmail.com";
+        String to = "chandan.singh.in@outlook.com";
+        String from = "chandan.singh.in@outlook.com";
 
         String host = "localhost";
 
         Properties properties = System.getProperties();
 
         properties.setProperty("mail.smtp.host",host);
+
 
         Session session = Session.getDefaultInstance(properties);
 
