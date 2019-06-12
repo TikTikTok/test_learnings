@@ -2,7 +2,7 @@ package cloning.deep.and.shallow;
 
 public class StudentAddress implements Cloneable {
 
-    String address;
+    public String address;
 
     public void addAddress(String address)
     {
