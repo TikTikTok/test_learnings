@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/src/main/java/com/guitar/db/repository/LocationJpaRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/src/main/resources/META-INF/spring/app-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/src/test/java/com/guitar/db/LocationPersistenceTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserialization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/email/SendEmail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/serialization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedTwoTransientSerialization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/InsertionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharWithHashNap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/java/com/spring/Controller/CustomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/java/com/spring/SpringBootConsoleApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/java/com/spring/dao/CustomerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/java/com/spring/model/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/java/com/spring/repository/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
