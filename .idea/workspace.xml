@@ -2,31 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96d1173-045a-4410-8d9c-1dc19c1f659b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedTwoTransientSerialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharWithHashNap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testprograms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/email/SendEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/email/SendEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/email/SendEmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/email/SendEmail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/InsertANodeAtFrontInLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListNodeHeadDataNext$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListNodeHeadDataNext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListPalindromeRecurssiveTest$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListPalindromeRecurssiveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeriesProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/DeepClonningTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/ShallowCopyClonningTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentObjectWithoutOtherObjectReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ForAndIfBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/HashMapImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/RemoveArrayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/UnmodifiableListTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/UnmodifiableListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/companies/verifone/FirstNonRepeatingCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/EagerInitializationSingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/LazyInitializationSingleTonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/ArraySubSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/BruteForceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/CoinFlip_COINFLIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/CompleteFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/CountTheNumberOfZerosInA_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/FactorialOfANumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/MakeExactlyOneDigitWrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/NoOfZerosInAFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/RemoveAndAddElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/SandhyaProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/easy/UncleJohnySongPlaylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/email/SendEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exception/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exception/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaBuz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaForEachForListAndMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaWithConditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pattern/DamruPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pattern/HourGlassProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/siva/TestObjectAndPrimitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/small_tests/MathmeticsOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stings_programs/RemoveSpacesFromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stings_programs/ReplaceMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamWithSimilarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/threads/InterruptingThreadDoesntStopExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/java8/lamda/expression/LamdaExpressionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,6 +118,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="12" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -97,33 +139,33 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="46" />
+          <entry key="java" value="51" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="51" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="11512" />
+          <entry key="java" value="12828" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11512" />
+          <entry key="JAVA" value="12828" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="XML" value="41" />
         </counts>
@@ -133,64 +175,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/ForAndIfBreak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SeriesProgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+              <folding>
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1325">
-              <caret line="197" column="49" selection-start-line="197" selection-start-column="49" selection-end-line="197" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="1242">
+              <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -198,7 +258,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="252">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
@@ -207,16 +267,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="144">
               <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -246,28 +298,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/email/SendEmail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharWithHashNap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/serialization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedTwoTransientSerialization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserialization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/MakeExactlyOneDigitWrong.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/UncleJohnySongPlaylist.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/expression/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/lamda/expression/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/BruteForceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/ArraySubSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/SandhyaProgram.java" />
@@ -313,6 +343,12 @@
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/UnmodifiableHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/ImmutableStudentBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java" />
       </list>
     </option>
   </component>
@@ -346,10 +382,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="95" />
-    <option name="y" value="55" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -388,7 +422,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -396,8 +430,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMapImplementation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="builder_design_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -411,14 +455,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="expression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,7 +465,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560314586224" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560333798493" />
     <property name="last_opened_file_path" value="D:/programs/Spring/spring_boot_app/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -457,26 +493,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeepClonningTest">
-    <configuration name="CustomizedSerializationDeserializationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.and.deserialization.CustomizedSerializationDeserializationTest" />
+  <component name="RunManager" selected="Application.BuilderDesignPatternTest">
+    <configuration name="BuilderDesignPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder_design_pattern.BuilderDesignPatternTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.and.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeepClonningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloning.deep.and.shallow.DeepClonningTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cloning.deep.and.shallow.*" />
+          <option name="PATTERN" value="builder_design_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -510,51 +533,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionTest" />
+    <configuration name="HashMapUnmodifiableTest_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap_unmodifiable_implementation.HashMapUnmodifiableTest_1" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="companies.verifone.FirstNonRepeatingCharacter" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="companies.verifone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForAndIfBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ForAndIfBreak" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShallowCopyClonningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloning.deep.and.shallow.ShallowCopyClonningTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cloning.deep.and.shallow.*" />
+          <option name="PATTERN" value="hashmap_unmodifiable_implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,22 +560,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CustomizedSerializationDeserializationTest" />
-      <item itemvalue="Application.DeepClonningTest" />
       <item itemvalue="Application.EnumSingleton" />
       <item itemvalue="Application.EqualsMethodTest" />
-      <item itemvalue="Application.ExceptionTest" />
-      <item itemvalue="Application.FirstNonRepeatingCharacter" />
-      <item itemvalue="Application.ForAndIfBreak" />
-      <item itemvalue="Application.ShallowCopyClonningTest" />
       <item itemvalue="Application.SingletonBreakByDeserializationTest" />
+      <item itemvalue="Application.HashMapUnmodifiableTest_1" />
+      <item itemvalue="Application.BuilderDesignPatternTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuilderDesignPatternTest" />
+        <item itemvalue="Application.HashMapUnmodifiableTest_1" />
         <item itemvalue="Application.SingletonBreakByDeserializationTest" />
         <item itemvalue="Application.EnumSingleton" />
         <item itemvalue="Application.EqualsMethodTest" />
-        <item itemvalue="Application.CustomizedSerializationDeserializationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -609,28 +590,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19354838" />
+      <window_info id="DB Browser" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.2963801" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.4977778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32352942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44333333" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.1988273" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.15913978" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -791,55 +777,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lamda/expression/LamdaForEachForListAndMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lamda/expression/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/problems/CircularDependencyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/problems/CircularDependencyB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/problems/CircularDependencyC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/FactorialOfANumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/BruteForceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -861,31 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -960,20 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/stings_programs/RemoveSpacesFromString.java">
@@ -1029,13 +931,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1124,28 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
@@ -1163,6 +1036,129 @@
             <element signature="e#615#616#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
             <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/ForAndIfBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeriesProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding>
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
           </folding>
         </state>
       </provider>
