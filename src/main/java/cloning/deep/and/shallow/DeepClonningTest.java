@@ -5,11 +5,14 @@ public class DeepClonningTest {
 
         StudentObjectDeepClonningWithAddressReference original = new StudentObjectDeepClonningWithAddressReference();
         original.addName("Chandan Singh");
+        original.setStudentAddress("Tavarekere 560029");
         System.out.println(original.displayName());
 
-        StudentObjectDeepClonningWithAddressReference copy = new StudentObjectDeepClonningWithAddressReference();
-
-
-
+        System.out.println(" ================================== ");
+        StudentObjectDeepClonningWithAddressReference copy = (StudentObjectDeepClonningWithAddressReference)original.clone();
+        copy.removePinCode();
+        System.out.println(copy.displayAddress());
+        System.out.println(" ********************************** ");
+        System.out.println(original.displayAddress());
     }
 }
