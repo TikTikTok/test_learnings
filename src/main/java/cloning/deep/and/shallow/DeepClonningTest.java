@@ -14,9 +14,5 @@ public class DeepClonningTest {
         System.out.println(copy.displayAddress());
         System.out.println(" ********************************** ");
         System.out.println(original.displayAddress());
-
-
-
-
     }
 }

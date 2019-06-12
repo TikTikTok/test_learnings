@@ -1,4 +1,4 @@
-package collections;
+package easy;
 
 public class ForAndIfBreak {
 

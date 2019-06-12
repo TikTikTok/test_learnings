@@ -35,19 +35,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharWithHashNap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-=======
   <component name="FUSProjectUsageTrigger">
     <session id="-399296094">
       <usages-collector id="statistics.lifecycle.project">
@@ -89,7 +76,7 @@
     <session id="-499565729">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -146,180 +133,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/RemoveArrayElement.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="37" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/ForAndIfBreak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedTwoTransientSerialization.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/ForAndIfBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FirstNonRepeatingCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exception/CustomException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="-1325">
+              <caret line="197" column="49" selection-start-line="197" selection-start-column="49" selection-end-line="197" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/exception/ExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectWithoutOtherObjectReference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/ShallowCopyClonningTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-=======
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-=======
->>>>>>> f0ca0d38bd1295309a0c7209f49630194b0c872e
-        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-              </folding>
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+            <state relative-caret-position="180">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-=======
         <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
               <folding>
                 <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#175#176#0" expanded="true" />
@@ -327,37 +216,16 @@
                 <element signature="e#270#271#0" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-=======
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
->>>>>>> f0ca0d38bd1295309a0c7209f49630194b0c872e
+            <state relative-caret-position="270">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -378,7 +246,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/email/SendEmail.java" />
         <option value="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java" />
@@ -395,7 +262,6 @@
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserialization.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" />
-=======
         <option value="$PROJECT_DIR$/src/main/java/easy/MakeExactlyOneDigitWrong.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/UncleJohnySongPlaylist.java" />
         <option value="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/QuickSort.java" />
@@ -446,13 +312,38 @@
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/ShallowCopyClonningTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java" />
-=======
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
->>>>>>> f0ca0d38bd1295309a0c7209f49630194b0c872e
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="outputLevel" value="DEBUG" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testprograms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testprograms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="95" />
@@ -466,63 +357,74 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-              <item name="shallow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMapImplementation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-<<<<<<< HEAD
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560271629189" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/pom.xml" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-=======
       <pane id="Scope" />
     </panes>
   </component>
@@ -542,7 +444,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\29090\Downloads\testprograms\src\main\java" />
     </key>
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -556,41 +457,13 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.SingletonBreakByDeserializationTest">
-    <configuration name="BreakSingletonByReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_patterns.singleton.BreakSingletonByReflectionTest" />
-=======
   <component name="RunManager" selected="Application.DeepClonningTest">
-    <configuration name="DeepClonningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cloning.deep.and.shallow.DeepClonningTest" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cloning.deep.and.shallow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
     <configuration name="CustomizedSerializationDeserializationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="serialization.and.deserialization.CustomizedSerializationDeserializationTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="serialization.and.deserialization.*" />
-=======
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -598,21 +471,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
+    <configuration name="DeepClonningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloning.deep.and.shallow.DeepClonningTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloning.deep.and.shallow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design_patterns.singleton.EnumSingleton" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="design_patterns.singleton.*" />
-=======
-    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="companies.verifone.FirstNonRepeatingCharacter" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="companies.verifone.*" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -620,21 +497,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
     <configuration name="EqualsMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="object.classs.methods.EqualsMethodTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="object.classs.methods.*" />
-=======
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ExceptionTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="companies.verifone.FirstNonRepeatingCharacter" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="companies.verifone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForAndIfBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ForAndIfBreak" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collections.*" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -642,21 +549,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="SingletonBreakByDeserializationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_patterns.singleton.SingletonBreakByDeserializationTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design_patterns.singleton.*" />
-=======
     <configuration name="ShallowCopyClonningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cloning.deep.and.shallow.ShallowCopyClonningTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cloning.deep.and.shallow.*" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -664,30 +562,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
+    <configuration name="SingletonBreakByDeserializationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.singleton.SingletonBreakByDeserializationTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_patterns.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CustomizedSerializationDeserializationTest" />
+      <item itemvalue="Application.DeepClonningTest" />
+      <item itemvalue="Application.EnumSingleton" />
+      <item itemvalue="Application.EqualsMethodTest" />
+      <item itemvalue="Application.ExceptionTest" />
+      <item itemvalue="Application.FirstNonRepeatingCharacter" />
+      <item itemvalue="Application.ForAndIfBreak" />
+      <item itemvalue="Application.ShallowCopyClonningTest" />
+      <item itemvalue="Application.SingletonBreakByDeserializationTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SingletonBreakByDeserializationTest" />
         <item itemvalue="Application.EnumSingleton" />
-        <item itemvalue="Application.BreakSingletonByReflectionTest" />
         <item itemvalue="Application.EqualsMethodTest" />
         <item itemvalue="Application.CustomizedSerializationDeserializationTest" />
-=======
-    <list>
-      <item itemvalue="Application.ForAndIfBreak" />
-      <item itemvalue="Application.FirstNonRepeatingCharacter" />
-      <item itemvalue="Application.ExceptionTest" />
-      <item itemvalue="Application.ShallowCopyClonningTest" />
-      <item itemvalue="Application.DeepClonningTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DeepClonningTest" />
-        <item itemvalue="Application.ShallowCopyClonningTest" />
-        <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.FirstNonRepeatingCharacter" />
-        <item itemvalue="Application.ForAndIfBreak" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       </list>
     </recent_temporary>
   </component>
@@ -705,14 +609,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25100672" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19354838" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19354838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -720,15 +620,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29868227" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
-=======
       <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" visible="true" weight="0.2963801" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.2963801" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32352942" />
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -738,7 +632,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.15913978" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
@@ -775,6 +669,14 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,10 +786,11 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/email/SendEmail.java">
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/lamda/expression/LamdaForEachForListAndMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -906,13 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -959,25 +855,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/ArraySubSet.java">
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java">
-=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java">
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -986,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1037,13 +935,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/serialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/serialization.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1054,27 +946,10 @@
     <entry file="file://$PROJECT_DIR$/abc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,32 +962,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/EnumSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        <state relative-caret-position="180">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java">
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/stings_programs/RemoveSpacesFromString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1121,7 +984,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/java8/lamda/expression/LamdaExpressionTest.java">
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
@@ -1136,13 +998,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1150,7 +1008,6 @@
         </state>
       </provider>
     </entry>
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/World/LinkedListNodeHeadDataNext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1177,8 +1034,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="198">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1223,13 +1080,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/ForAndIfBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/ForAndIfBreak.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FirstNonRepeatingCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1275,15 +1126,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
@@ -1392,6 +1243,5 @@
         </settings>
       </state>
     </states>
->>>>>>> 247dd875c2ce8c9208559aa547532101805747a0
   </component>
 </project>
