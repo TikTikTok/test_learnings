@@ -1,0 +1,25 @@
+Input: 8 aaabbbcd
+Expected: 5 5 5 2 2 2 1 0
+
+Spring :- 
+-5. Annotation and DI
+-4. Design MVC and factory
+-3. https://www.toptal.com/spring/interview-questions#form
+
+
+
+Java:
+
+1. what is the job of marker interface ?
+2. how to create immutable map ?
+3. how to compare object ? how many ways ?
+4. Anonymous class, inner class, static inner class ?
+5. Cloning - Article for revision - https://www.artima.com/objectsandjava/webuscript/ClonCollInner1.html
+6. Builder Patter
+
+
+Hibernate : 
+1. HQL, Native, Named Query
+2. Object states.
+3. Hibernate Cache - 
+hibernate inheritance
