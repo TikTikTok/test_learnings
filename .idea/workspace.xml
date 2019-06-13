@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testprograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testprograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deloite interview questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deloite interview questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testprograms/builder_design_pattern/BuilderDesignPatternTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testprograms/builder_design_pattern/ImmutableStudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testprograms/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testprograms/hashmap_unmodifiable_implementation/UnmodifiableHashMap.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +86,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="51" />
+          <entry key="java" value="52" />
+          <entry key="properties" value="1" />
           <entry key="txt" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -99,22 +95,23 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="51" />
+          <entry key="JAVA" value="52" />
           <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="12828" />
+          <entry key="java" value="13671" />
           <entry key="txt" value="158" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12828" />
+          <entry key="JAVA" value="13671" />
           <entry key="PLAIN_TEXT" value="175" />
           <entry key="XML" value="41" />
         </counts>
@@ -123,15 +120,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SeriesProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,11 +141,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/properties.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -186,8 +195,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1523">
-              <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
+            <state relative-caret-position="-1361">
+              <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -226,7 +235,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/pattern/HourGlassProblem.java" />
         <option value="$PROJECT_DIR$/src/main/java/pattern/DamruPattern.java" />
@@ -277,6 +285,7 @@
         <option value="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/deloite interview questions.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java" />
       </list>
     </option>
   </component>
@@ -371,7 +380,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560335885912" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560406045676" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -400,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuilderDesignPatternTest">
+  <component name="RunManager" selected="Application.PropertyFileStoreAndLoad">
     <configuration name="BuilderDesignPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder_design_pattern.BuilderDesignPatternTest" />
       <module name="testprograms" />
@@ -427,12 +436,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.classs.methods.EqualsMethodTest" />
+    <configuration name="HashMapUnmodifiableTest_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap_unmodifiable_implementation.HashMapUnmodifiableTest_1" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object.classs.methods.*" />
+          <option name="PATTERN" value="hashmap_unmodifiable_implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -440,12 +449,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapUnmodifiableTest_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap_unmodifiable_implementation.HashMapUnmodifiableTest_1" />
+    <configuration name="PropertyFileStoreAndLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="properties_file_store_load.PropertyFileStoreAndLoad" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashmap_unmodifiable_implementation.*" />
+          <option name="PATTERN" value="properties_file_store_load.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,18 +477,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.EnumSingleton" />
-      <item itemvalue="Application.EqualsMethodTest" />
       <item itemvalue="Application.SingletonBreakByDeserializationTest" />
       <item itemvalue="Application.HashMapUnmodifiableTest_1" />
       <item itemvalue="Application.BuilderDesignPatternTest" />
+      <item itemvalue="Application.PropertyFileStoreAndLoad" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertyFileStoreAndLoad" />
         <item itemvalue="Application.BuilderDesignPatternTest" />
         <item itemvalue="Application.HashMapUnmodifiableTest_1" />
         <item itemvalue="Application.SingletonBreakByDeserializationTest" />
         <item itemvalue="Application.EnumSingleton" />
-        <item itemvalue="Application.EqualsMethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -498,6 +507,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -511,14 +521,14 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.27666667" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946237" visible="true" weight="0.27666667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32352942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44333333" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44333333" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
@@ -684,20 +694,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1001,8 +997,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1523">
-          <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
+        <state relative-caret-position="-1361">
+          <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1010,6 +1006,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
