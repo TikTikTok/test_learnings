@@ -24,6 +24,11 @@ public class PropertyFileStoreAndLoad {
             //getting the file with name properties.properties
             InputStream inputStream = new FileInputStream("properties.properties");
 
+            if (null == inputStream)
+            {
+                throw new FileNotFoundException(" File "+properties+" not found in the class path ");
+            }
+
             //populating the properties(key and value pair) object to properties object
             properties.load(inputStream);
 
