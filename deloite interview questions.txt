@@ -15,7 +15,8 @@ Java:
 3. how to compare object ? how many ways ?
 4. Anonymous class, inner class, static inner class ?
 5. Cloning - Article for revision - https://www.artima.com/objectsandjava/webuscript/ClonCollInner1.html
-6. Builder Patter
+6. Builder Patter - fields(private, final), methods( only getters), constructor( initialized with Builder class object)
+7. How to read properties file in java and iterate ?
 
 
 Hibernate : 

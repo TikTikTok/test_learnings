@@ -2,103 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testprograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deloite interview questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/testprograms/builder_design_pattern/BuilderDesignPatternTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/testprograms/builder_design_pattern/ImmutableStudentBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/testprograms/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/testprograms/hashmap_unmodifiable_implementation/UnmodifiableHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/easy/ForAndIfBreak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefire5108349203897487357tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefire5301116912768755745tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefire_0636280681159254946tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefire_08423186530182284955tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefirebooter7832940497860342315.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire/surefirebooter8557847662035861213.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/testprograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testprograms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ForAndIfBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/ForAndIfBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/InsertANodeAtFrontInLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListNodeHeadDataNext$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListNodeHeadDataNext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListPalindromeRecurssiveTest$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/World/LinkedListPalindromeRecurssiveTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SeriesProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/DeepClonningTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/ShallowCopyClonningTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentObjectWithoutOtherObjectReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ForAndIfBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/HashMapImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/ImmutableMapStaticInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/Key.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/RemoveArrayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/UnmodifiableListTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/UnmodifiableListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/companies/verifone/FirstNonRepeatingCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/EagerInitializationSingletonClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/LazyInitializationSingleTonClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/ArraySubSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/BruteForceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/CoinFlip_COINFLIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/CompleteFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/CountTheNumberOfZerosInA_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/FactorialOfANumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/MakeExactlyOneDigitWrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/NoOfZerosInAFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/RemoveAndAddElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/SandhyaProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/UncleJohnySongPlaylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/email/SendEmail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/CustomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/ExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaBuz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaForEachForListAndMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaWithConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pattern/DamruPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pattern/HourGlassProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/siva/TestObjectAndPrimitive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/small_tests/MathmeticsOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stings_programs/RemoveSpacesFromString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stings_programs/ReplaceMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamWithSimilarType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threads/InterruptingThreadDoesntStopExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deloite interview questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deloite interview questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/java8/lamda/expression/LamdaExpressionTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testprograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testprograms.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,22 +21,191 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-399296094">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="17" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="17" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2890" />
+          <entry key="xml" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2890" />
+          <entry key="XML" value="82" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-499565729">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="51" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="51" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="12828" />
+          <entry key="txt" value="158" />
+          <entry key="xml" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12828" />
+          <entry key="PLAIN_TEXT" value="175" />
+          <entry key="XML" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/java8/lamda/expression/LamdaExpressionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SeriesProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="324">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt">
+        <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
+            <state relative-caret-position="324">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1523">
+              <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -143,8 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/easy/ArraySubSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/SandhyaProgram.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/HashMapImplementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/pattern/HourGlassProblem.java" />
@@ -194,6 +275,8 @@
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java" />
         <option value="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/deloite interview questions.txt" />
       </list>
     </option>
   </component>
@@ -226,7 +309,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -236,59 +319,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560335394645" />
-    <property name="last_opened_file_path" value="D:/programs/Spring/spring_boot_app/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560335885912" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -300,6 +384,7 @@
       <recent name="exception" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Softwares\testprograms" />
       <recent name="C:\Users\29090\Downloads\testprograms\src\main\java" />
     </key>
   </component>
@@ -403,7 +488,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a96d1173-045a-4410-8d9c-1dc19c1f659b" name="Default Changelist" comment="" />
+      <changelist id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="" />
       <created>1558087725342</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -412,10 +497,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,14 +511,14 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.4977778" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946237" weight="0.27666667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32352942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4216691" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44333333" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
@@ -447,7 +531,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.1988273" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16950959" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2342282" />
@@ -478,6 +562,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -597,20 +684,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/SandhyaProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/ArraySubSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/CompleteFactorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -730,9 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="26" column="39" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,14 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,20 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,24 +920,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/java8/lamda/expression/LamdaExpressionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        <state relative-caret-position="629">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="265" column="13" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -913,9 +948,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="270">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -923,53 +982,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/hashMap/ImmutableHashMapTrick_1/hashmap_unmodifiable_implementation/UnmodifiableHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/BuilderDesignPatternTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/builder/builder_design_pattern/Student.java">
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1523">
+          <caret line="280" column="13" lean-forward="true" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/java8/lamda/expression/LamdaExpressionTest.java">
+    <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
+        <state relative-caret-position="324">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
         </state>
       </provider>
     </entry>
