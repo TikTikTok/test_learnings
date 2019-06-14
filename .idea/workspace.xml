@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/competitive_programming/ParenthesisBalancedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/imports/StaticImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/imports/StaticImportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_performance/questions_and_links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithNameComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/properties_file_store_load/PropertyFileStoreAndLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties_file_store_load/PropertyFileStoreAndLoad.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,6 +61,7 @@
         <counts>
           <entry key="project.closed" value="14" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -83,14 +83,15 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="59" />
+          <entry key="java" value="65" />
           <entry key="properties" value="1" />
+          <entry key="questions_and_links" value="1" />
           <entry key="txt" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -98,8 +99,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="59" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="65" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -107,15 +108,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="15729" />
+          <entry key="java" value="16466" />
+          <entry key="questions_and_links" value="49" />
           <entry key="txt" value="158" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15729" />
-          <entry key="PLAIN_TEXT" value="177" />
+          <entry key="JAVA" value="16466" />
+          <entry key="PLAIN_TEXT" value="226" />
           <entry key="XML" value="41" />
         </counts>
       </usages-collector>
@@ -124,40 +126,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/ParenthesisBalancedOrNot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            <state relative-caret-position="234">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/imports/StaticImport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/imports/StaticImportTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="54" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,37 +156,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="486">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/ParenthesisBalancedOrNot.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/questions_and_links">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="5" selection-end-line="47" />
+            <state relative-caret-position="36">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/properties.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithAgeComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithNameComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -204,8 +206,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1343">
-              <caret line="290" column="13" selection-start-line="290" selection-start-column="13" selection-end-line="290" selection-end-column="13" />
+            <state relative-caret-position="5202">
+              <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -236,14 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedList/World/InsertANodeAtFrontInLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedList/World/LinkedListNodeHeadDataNext.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stings_programs/ReplaceMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedList/World/LinkedListPalindromeRecurssiveTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SeriesProgram.java" />
-        <option value="$PROJECT_DIR$/src/main/java/threads/InterruptingThreadDontStopExecution.java" />
         <option value="$PROJECT_DIR$/src/main/java/threads/InterruptingThreadDoesntStopExecution.java" />
         <option value="$PROJECT_DIR$/src/main/java/siva/TestObjectAndPrimitive.java" />
         <option value="$PROJECT_DIR$/src/main/java/streams/StreamWithSimilarType.java" />
@@ -287,6 +281,14 @@
         <option value="$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/competitive_programming/ParenthesisBalancedOrNot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithAgeComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_performance/questions_and_links" />
       </list>
     </option>
   </component>
@@ -360,7 +362,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="competitive_programming" type="462c0819:PsiDirectoryNode" />
+              <item name="java_performance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -384,12 +386,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560424980859" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560517926388" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -418,7 +420,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParenthesisBalancedOrNot">
+  <component name="RunManager" selected="Application.StudentSortingWithComparatorTest">
     <configuration name="FindMinDifferenceBTW_ArrElement_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="competitive_programming.FindMinDifferenceBTW_ArrElement_1" />
       <module name="testprograms" />
@@ -445,19 +447,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="companies.verifone.FirstNonRepeatingCharacter" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="companies.verifone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ParenthesisBalancedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="competitive_programming.ParenthesisBalancedOrNot" />
       <module name="testprograms" />
@@ -471,12 +460,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="imports.StaticImportTest" />
+    <configuration name="StudentSortingWithComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.object_sorting.StudentSortingWithComparableTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="imports.*" />
+          <option name="PATTERN" value="sorting.object_sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingWithComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.object_sorting.StudentSortingWithComparatorTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.object_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,19 +487,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticImportTest" />
-      <item itemvalue="Application.FirstNonRepeatingCharacter" />
       <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_1" />
       <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_2" />
       <item itemvalue="Application.ParenthesisBalancedOrNot" />
+      <item itemvalue="Application.StudentSortingWithComparableTest" />
+      <item itemvalue="Application.StudentSortingWithComparatorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentSortingWithComparatorTest" />
+        <item itemvalue="Application.StudentSortingWithComparableTest" />
         <item itemvalue="Application.ParenthesisBalancedOrNot" />
         <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_1" />
         <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_2" />
-        <item itemvalue="Application.FirstNonRepeatingCharacter" />
-        <item itemvalue="Application.StaticImportTest" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +520,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -530,7 +532,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.27" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.27" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.32333332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,7 +540,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.44333333" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.27" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.27" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3288889" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
@@ -628,33 +630,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/serialization.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/InsertionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abc.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/stings_programs/RemoveSpacesFromString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -836,9 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,9 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,20 +842,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FirstNonRepeatingCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1343">
-          <caret line="290" column="13" selection-start-line="290" selection-start-column="13" selection-end-line="290" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -899,8 +861,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/properties_file_store_load/PropertyFileStoreAndLoad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        <state relative-caret-position="288">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -914,24 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/properties.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FirstNonRepeatingCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/imports/StaticImportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="288">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -948,14 +896,90 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/FindMinDifferenceBTW_ArrElement_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="289" column="13" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/DeepClonningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/ParenthesisBalancedOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="5" selection-end-line="47" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="54" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithAgeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/object_sorting/StudentSortingWithComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/questions_and_links">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
