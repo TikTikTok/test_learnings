@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/JioPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/testprograms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sorting/object_sorting/StudentSortingWithComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sorting/object_sorting/StudentSortingWithComparatorTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +41,92 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinalTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/JioPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -56,6 +138,7 @@
       <list>
         <option value="Enum" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,13 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/streams/StreamWithSimilarType.java" />
-        <option value="$PROJECT_DIR$/src/test/java/java8/lamda/expression/LamdaExpressionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/DoubleCheckedSingletonClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/EagerInitializationSingletonClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/EagerInitializationSingletonClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationSingleTonClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/LazyInitializationWithDoubleCheckSingletonClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_patterns/singleton/Add.java" />
         <option value="$PROJECT_DIR$/src/main/java/stings_programs/RemoveSpacesFromString.java" />
         <option value="$PROJECT_DIR$/src/main/java/email/SendEmail.java" />
@@ -117,6 +193,13 @@
         <option value="$PROJECT_DIR$/src/main/java/java_performance/questions_and_links" />
         <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeImmutableWithFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/polymorphism/JioPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/polymorphism/Phone.java" />
       </list>
     </option>
   </component>
@@ -190,7 +273,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -242,20 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MakeClassImmutableWithoutFinalTest">
-    <configuration name="FindMinDifferenceBTW_ArrElement_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="competitive_programming.FindMinDifferenceBTW_ArrElement_1" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="competitive_programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Polymorphism_JioPhoneSamsungPhone_Test">
     <configuration name="MakeClassImmutableWithoutFinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strings.immutability.MakeClassImmutableWithoutFinalTest" />
       <module name="testprograms" />
@@ -269,12 +339,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParenthesisBalancedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="competitive_programming.ParenthesisBalancedOrNot" />
+    <configuration name="MakeManImmutableWithFinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.immutability.MakeManImmutableWithFinalTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="competitive_programming.*" />
+          <option name="PATTERN" value="strings.immutability.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polymorphism_JioPhoneSamsungPhone_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Polymorphism_JioPhoneSamsungPhone_Test" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_1" />
-      <item itemvalue="Application.ParenthesisBalancedOrNot" />
       <item itemvalue="Application.StudentSortingWithComparableTest" />
       <item itemvalue="Application.StudentSortingWithComparatorTest" />
       <item itemvalue="Application.MakeClassImmutableWithoutFinalTest" />
+      <item itemvalue="Application.MakeManImmutableWithFinalTest" />
+      <item itemvalue="Application.Polymorphism_JioPhoneSamsungPhone_Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polymorphism_JioPhoneSamsungPhone_Test" />
+        <item itemvalue="Application.MakeManImmutableWithFinalTest" />
         <item itemvalue="Application.MakeClassImmutableWithoutFinalTest" />
         <item itemvalue="Application.StudentSortingWithComparatorTest" />
         <item itemvalue="Application.StudentSortingWithComparableTest" />
-        <item itemvalue="Application.ParenthesisBalancedOrNot" />
-        <item itemvalue="Application.FindMinDifferenceBTW_ArrElement_1" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +423,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29194632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,7 +437,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.2693997" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.39824304" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.32333332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,42 +529,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/serialization/and/deserialization/CustomizedSerializationDeserializationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/World/LinkedListNodeHeadDataNext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/World/InsertANodeAtFrontInLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/email/SendEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/BiConsumer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/UnmodifiableListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/ImmutableMapStaticInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -803,6 +851,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/JioPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
