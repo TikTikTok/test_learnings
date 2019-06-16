@@ -18,6 +18,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/eka_software/FindStringWithSomePattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/ArrayValueEqualityWithOtherArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharWithHashNap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design_patterns/singleton/BreakSingletonByReflection.java">
           <value>
             <set />

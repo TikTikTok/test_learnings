@@ -1,4 +1,4 @@
-package verifone_code_challenge;
+package companies.verifone;
 
 public class FindFirstNonRepeatingCharacter {
 

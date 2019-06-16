@@ -1,0 +1,26 @@
+#surefire
+#Sun Jun 16 12:28:42 IST 2019
+testClassesDirectory=F\:\\Git\\testprograms\\test_learnings\\target\\test-classes
+classPathUrl.4=C\:\\Users\\chandan singh\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar
+classPathUrl.3=C\:\\Users\\chandan singh\\.m2\\repository\\javax\\mail\\mail\\1.4\\mail-1.4.jar
+classPathUrl.2=C\:\\Users\\chandan singh\\.m2\\repository\\junit\\junit\\4.5\\junit-4.5.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\Git\\testprograms\\test_learnings\\target\\classes
+reportsDirectory=F\:\\Git\\testprograms\\test_learnings\\target\\surefire-reports
+classPathUrl.0=F\:\\Git\\testprograms\\test_learnings\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\Git\\testprograms\\test_learnings\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\chandan singh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\chandan singh\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=java8.lamda.expression.LamdaExpressionTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=F\:\\Git\\testprograms\\test_learnings\\.surefire-B2A2195CBCC0AFC9D0C897DB41369CC1F33E2ACC
+includes0=**/Test*.java
+childDelegation=false

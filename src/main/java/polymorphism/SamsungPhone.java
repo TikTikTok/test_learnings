@@ -1,6 +1,6 @@
 package polymorphism;
 
-public class SamsungPhone implements Phone {
+public class SamsungPhone extends Phone {
 
     @Override
     public void call() {
