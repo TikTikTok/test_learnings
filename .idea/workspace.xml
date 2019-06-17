@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/companies/eka_software/FindStringWithSomePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/SamsungPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/ArrayValueEqualityWithOtherArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharWithHashNap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/JioPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/JioPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/SamsungPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/SamsungPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,8 +202,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="99" column="31" selection-end-line="1164" selection-end-column="10" />
+            <state relative-caret-position="-1674">
+              <caret line="96" column="56" lean-forward="true" selection-start-line="96" selection-start-column="56" selection-end-line="96" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -378,14 +359,6 @@
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="testprograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java_performance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testprograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -536,7 +509,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20628998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -557,8 +529,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18887262" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033557" side_tool="true" weight="0.39824304" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.30333334" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.30333334" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32796487" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
@@ -905,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="99" column="31" selection-end-line="1164" selection-end-column="10" />
+        <state relative-caret-position="-1674">
+          <caret line="96" column="56" lean-forward="true" selection-start-line="96" selection-start-column="56" selection-end-line="96" selection-end-column="56" />
         </state>
       </provider>
     </entry>
