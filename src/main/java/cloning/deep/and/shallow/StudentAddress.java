@@ -1,6 +1,6 @@
 package cloning.deep.and.shallow;
 
-public class StudentAddress implements Cloneable {
+public final class StudentAddress implements Cloneable {
 
     public String address;
 
@@ -18,6 +18,8 @@ public class StudentAddress implements Cloneable {
     {
         return address;
     }
+
+    public
 
     public Object clone()
     {

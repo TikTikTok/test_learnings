@@ -3,7 +3,7 @@ package data_stuctures.stack;
 public class StackTest {
 
     public static void main(String[] args) {
-        Stack stack = new Stack();
+        Stack stack = new Stack(10);
         stack.push(50);
         stack.push(60);
         stack.push(70);
