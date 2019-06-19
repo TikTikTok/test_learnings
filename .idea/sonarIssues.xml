@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/src/main/java/com/guitar/db/repository/LocationJpaRepository.java">
           <value>
             <set />
@@ -44,6 +49,51 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/CreateLinkedList_2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeText.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node_1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/queues/Queue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/queues/QueueTest.java">
           <value>
             <set />
           </value>
