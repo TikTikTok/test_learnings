@@ -2,38 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b969d-644c-461c-909c-c6c7d7b89b28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/ImmutableReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/threads/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deloite interview questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deloite interview questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/companies/glider/DollSizeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/companies/glider/DollSizeProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SeriesProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder_design_pattern/Student$StudentBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder_design_pattern/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentObjectWithoutOtherObjectReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/companies/glider/DollSizeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/companies/glider/DollSizeProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/stack/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/stack/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/stack/StackTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/EagerInitializationSingletonClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design_patterns/singleton/LazyInitializationSingleTonClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/ArraySubSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/CoinFlip_COINFLIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/CompleteFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/NoOfZerosInAFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/easy/UncleJohnySongPlaylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/CustomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hashmap_unmodifiable_implementation/HashMapUnmodifiableTest_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java8/lamda/expression/LamdaForEachForListAndMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pattern/DamruPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sortings/algorithm/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/problems/CircularDependencyA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stings_programs/RemoveSpacesFromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cloning/deep/and/shallow/StudentAddress.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/strings/immutability/MakeManImmutableWithFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/immutability/MakeManImmutableWithFinal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/strings/immutability/MakeManImmutableWithFinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/immutability/MakeManImmutableWithFinalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,56 +27,42 @@
     <session id="-499565729">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="13" />
           <entry key="questions_and_links" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="364" />
+          <entry key="java" value="784" />
+          <entry key="txt" value="178" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="364" />
+          <entry key="JAVA" value="784" />
+          <entry key="PLAIN_TEXT" value="178" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_performance/questions_and_links">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeClassImmutableWithoutFinalTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,12 +75,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/threads/InterruptingThreadDoesntStopExecution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/threads/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-              <folding>
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-              </folding>
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -124,23 +120,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/ImmutableReference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -149,7 +139,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -157,26 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/glider/DollSizeProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="234">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -200,10 +172,13 @@
         <option value="$PROJECT_DIR$/src/main/java/data_stuctures/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/companies/glider/DollSizeProblem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/immutability/ImmutableReference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threads/Phone.java" />
+        <option value="$PROJECT_DIR$/deloite interview questions.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java" />
       </list>
     </option>
   </component>
@@ -240,8 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +246,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="immutability" type="462c0819:PsiDirectoryNode" />
+              <item name="companies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -297,10 +270,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560844996214" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560945890896" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,13 +289,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MakeManImmutableWithFinalTest">
+  <component name="RunManager" selected="Application.FindKthUniqueElement">
     <configuration name="DollSizeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="companies.glider.DollSizeProblem" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="companies.glider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindKthUniqueElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="companies.geeksforgeeks.FindKthUniqueElement" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="companies.geeksforgeeks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,9 +346,11 @@
       <item itemvalue="Application.StackTest" />
       <item itemvalue="Application.DollSizeProblem" />
       <item itemvalue="Application.MakeManImmutableWithFinalTest" />
+      <item itemvalue="Application.FindKthUniqueElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindKthUniqueElement" />
         <item itemvalue="Application.MakeManImmutableWithFinalTest" />
         <item itemvalue="Application.DollSizeProblem" />
         <item itemvalue="Application.StackTest" />
@@ -384,7 +374,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,7 +386,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.36151278" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.36151278" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34260616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,48 +557,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinal.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threads/InterruptingThreadDoesntStopExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threads/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-          </folding>
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/ImmutableReference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentObjectDeepClonningWithAddressReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cloning/deep/and/shallow/StudentAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deloite interview questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>

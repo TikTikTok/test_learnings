@@ -17,6 +17,8 @@ Java:
 5. Cloning - Article for revision - https://www.artima.com/objectsandjava/webuscript/ClonCollInner1.html
 6. Builder Patter - fields(private, final), methods( only getters), constructor( initialized with Builder class object)
 7. How to read properties file in java and iterate ?
+8. How to make class immutable ? if any class holds a reference to other object ... how do you maintain immutability.
+9. What are the advantages of the immutability ?
 
 
 Hibernate : 

@@ -20,8 +20,9 @@ public final class MakeManImmutableWithFinal {
         return age;
     }
 
-    public ImmutableReference getRef()
+    public String getReferenceName()
     {
-        return ref;
+        return ref.getReferenceName();
     }
+
 }

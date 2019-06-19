@@ -19,8 +19,6 @@ public final class StudentAddress implements Cloneable {
         return address;
     }
 
-    public
-
     public Object clone()
     {
         try {
