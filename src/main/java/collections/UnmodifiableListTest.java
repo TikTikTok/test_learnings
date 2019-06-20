@@ -8,6 +8,8 @@ public class UnmodifiableListTest {
 
     public static void main(String[] args) {
 
+        System.out.println(Runtime.getRuntime().totalMemory());
+
         HashMap<String, String> map = new HashMap<>();
         map.put("chandan", "singh");
         map.put("rohit", "sharma");

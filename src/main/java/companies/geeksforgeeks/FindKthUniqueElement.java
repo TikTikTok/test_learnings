@@ -12,17 +12,17 @@ public class FindKthUniqueElement {
         HashMap<Integer, Integer> map = new HashMap<>();//
 
         for (int i = 0; i < arr.length; i++) {
-            int counter =0;
+            int counter = 0;
             if (map.containsKey(arr[i]))// 1
             {
-                map.put(arr[i], map.get(arr[i])+1);
-            }else {
-                map.put(arr[i],1); // 1,1.... 2,1... 1,2...
+                map.put(arr[i], map.get(arr[i]) + 1);
+            } else {
+                map.put(arr[i], 1); // 1,1.... 2,1... 1,2...
             }
         }
-        map.forEach((key, value) -> System.out.println(" Key :"+key +" Value :"+value));
+        map.forEach((key, value) -> System.out.println(" Key :" + key + " Value :" + value));
 
-        for (int i = 0; i < arr.length ; i++) {
+        for (int i = 0; i < arr.length; i++) {
             counts[arr[i]]++;
         }
 
