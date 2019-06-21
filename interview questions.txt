@@ -19,9 +19,11 @@ Java:
 7. How to read properties file in java and iterate ?
 8. How to make class immutable ? if any class holds a reference to other object ... how do you maintain immutability.
 9. What are the advantages of the immutability ?
+
+    VERIFONE:
 10. Difference between streams and readers ?
 11. what is source and target in the pom.xml ?
-12. What is the advantage of composite object over inheritance ?
+12. What is the advantage of composite object over inheritance ? Link:-  https://www.javaworld.com/article/2076814/inheritance-versus-composition--which-one-should-you-choose-.html
 13. What are the features introduced in java 1.7 ?
 14. What are the features introduced in java 1.8 ?
 15. Do you know the functional programming ?
@@ -34,3 +36,5 @@ Hibernate :
 2. Object states.
 3. Hibernate Cache - 
 hibernate inheritance
+
+
