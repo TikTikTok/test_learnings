@@ -2,29 +2,74 @@ package data_stuctures.linked_list;
 
 public class SinglyLinkedList {
 
-    private Node_1 first;
-    private Node_1 node;
+    private Node first;
 
-    public SinglyLinkedList()
-    {
+    public SinglyLinkedList() {
 
     }
 
-    public boolean isEmpty()
-    {
+    public boolean isEmpty() {
         return (first == null);
     }
 
-    public void push(int data)
-    {
-        Node_1 node_1 = new Node_1(data);
-        if (first == null)
-        {
-            first = node_1;
-            first.next = null;
-        }
+    public void insertFirst(int data) {
+        Node newNode = new Node();
+        newNode.data = data;
+        newNode.next = first;
+        first = newNode;
+    }
 
-        node = node_1;
-        node.next = null;
+    public Node deleteFirst() {
+        Node deleteFirst = first;
+        first = first.next;
+        return deleteFirst;
+    }
+
+    public void insertLast(int data) {
+        Node newNode = new Node();
+        newNode.data = data;
+        newNode.next = null;
+        Node currentNode = first;
+        while (currentNode != null) {
+            if (currentNode.next == null) {
+                currentNode.next = newNode;
+                break;
+            }
+            currentNode = currentNode.next;
+        }
+    }
+
+    public Node deleteLast() {
+        Node currentNode = first;
+        Node lastNode = null;
+        while (currentNode != null) {
+            if (currentNode.next.next == null) {
+                lastNode = currentNode.next;
+                currentNode.next = null;
+            }
+            currentNode = currentNode.next;
+        }
+        return lastNode;
+    }
+
+    public void insertMiddle(int data) {
+        Node currentNode = first;
+        while (currentNode.next.data == data) {
+            Node previous = currentNode.next.next;
+            Node middle = currentNode.next;
+            Node after = currentNode;
+
+
+            currentNode = currentNode.next;
+        }
+    }
+
+    public void displayList() {
+        System.out.println(" List (first --> last)");
+        Node currentNode = first;
+        while (currentNode != null) {
+            System.out.println(currentNode.data);
+            currentNode = currentNode.next;
+        }
     }
 }

@@ -2,11 +2,16 @@ package data_stuctures.linked_list;
 
 public class LinkedListNodeTest_1 {
     public static void main(String[] args) {
-        Node_1 nodeA = new Node_1(3);
-        Node_1 nodeB = new Node_1(4);
-        Node_1 nodeC = new Node_1(5);
-        Node_1 nodeD = new Node_1(6);
-        Node_1 nodeE = new Node_1(6);
+        Node nodeA = new Node();
+        nodeA.data = 5;
+        Node nodeB = new Node();
+        nodeB.data = 6;
+        Node nodeC = new Node();
+        nodeC.data = 7;
+        Node nodeD = new Node();
+        nodeD.data = 8;
+        Node nodeE = new Node();
+        nodeE.data = 9;
         nodeA.next = nodeB;
         nodeB.next = nodeC;
         nodeC.next = nodeD;
@@ -17,7 +22,7 @@ public class LinkedListNodeTest_1 {
 
     }
 
-    public static int listLength(Node_1 node)
+    public static int listLength(Node node)
     {
         int length =0;
 

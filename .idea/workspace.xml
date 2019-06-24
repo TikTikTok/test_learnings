@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebc6ace-fdea-4c3c-a0cd-61b43927f7a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/best_practice/RuntimeIOAndErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exception/best_practice/RuntimeIOAndErrorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-java8.lamda.expression.LamdaExpressionTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/arrays/MergeTwoUnsortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/LinkedListNodeTest_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/LinkedListNodeTest_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/Node_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,29 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collections/UnmodifiableListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+            <state relative-caret-position="244">
+              <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -53,26 +41,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node_1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -80,17 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="-119">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -115,6 +121,31 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -131,12 +162,17 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +204,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="companies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,7 +221,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -195,8 +239,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,16 +256,77 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.SinglyLinkedListTest">
+    <configuration name="MergeTwoUnsortedArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.arrays.MergeTwoUnsortedArray_2" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_stuctures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoUnsortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.arrays.MergeTwoUnsortedArrays" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_stuctures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.SinglyLinkedListTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_stuctures.linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MergeTwoUnsortedArrays" />
+      <item itemvalue="Application.MergeTwoUnsortedArray_2" />
+      <item itemvalue="Application.SinglyLinkedListTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SinglyLinkedListTest" />
+        <item itemvalue="Application.MergeTwoUnsortedArray_2" />
+        <item itemvalue="Application.MergeTwoUnsortedArrays" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebc6ace-fdea-4c3c-a0cd-61b43927f7a3" name="Default Changelist" comment="" />
+      <created>1561287631467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561287631467</updated>
+    </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22751679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,7 +338,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.43045387" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.39824304" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34260616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,7 +347,7 @@
       <window_info anchor="bottom" id="SonarQube" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.18887262" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033557" side_tool="true" weight="0.39824304" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32703003" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32650074" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -288,5 +395,143 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16950959" />
     </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/UnmodifiableListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="30" column="9" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
