@@ -16,8 +16,6 @@ exception\CustomException.class
 easy\UncleJohnySongPlaylist.class
 hashmap_unmodifiable_implementation\UnmodifiableHashMap.class
 collections\RemoveArrayElement.class
-data_stuctures\linked_list\Node_1.class
-data_stuctures\arrays\MergeTwoUnsortedArrays.class
 hashmap_unmodifiable_implementation\HashMapUnmodifiableTest_1.class
 LinkedList\World\LinkedListPalindromeRecurssiveTest.class
 easy\MakeExactlyOneDigitWrong.class
@@ -32,6 +30,7 @@ collections\ImmutableMapStaticInitializer.class
 sortings\algorithm\sort\SelectionSort.class
 java8\lamda\expression\Person.class
 design_patterns\singleton\LazyInitializationWithDoubleCheckSingletonClass.class
+JAVA_8_Features\functional_interface\FunctionalInterfaceTest_2.class
 collections\ImmutableMapStaticInitializer$2.class
 LinkedList\World\InsertANodeAtFrontInLinkedList.class
 java8\lamda\expression\LamdaWithConditions.class
