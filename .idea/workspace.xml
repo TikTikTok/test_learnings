@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d62fae40-6100-44ee-8d33-73ccd325ef21" name="Default Changelist" comment="" />
+    <list default="true" id="d62fae40-6100-44ee-8d33-73ccd325ef21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA_8_Features/functional_interface/FunctionalInterfaceTest_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA_8_Features/functional_interface/FunctionalInterfaceTest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA_8_Features/lamda_expressions/LamdaForEachForListAndMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA_8_Features/lamda_expressions/LamdaWithConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA_8_Features/lamda_expressions/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/functional_interface/FunctionalInterfaceTest_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/functional_interface/FunctionalInterfaceTest_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/lamda_expressions/LamdaBuz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/lamda_expressions/LamdaForEachForListAndMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/lamda_expressions/LamdaWithConditions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JAVA_8_Features/lamda_expressions/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/interview questions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/java8.lamda.expression.LamdaExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/testprograms-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,37 +32,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -63,10 +50,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,11 +68,6 @@
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -104,34 +82,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="lamda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="lamda" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,11 +127,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="data_stuctures.linked_list.circular_linkedList" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,133 +140,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.Run">
-    <configuration name="CircularLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.circular_linkedList.CircularLinkedListTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_stuctures.linked_list.circular_linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircularLinkedList_Practice_Impl_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.circular_linkedList.CircularLinkedList_Practice_Impl_Test" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_stuctures.linked_list.circular_linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeGoodArrayFromGivenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="competitive_programming.MakeGoodArrayFromGivenArray" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="competitive_programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTwoUnsortedArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.arrays.MergeTwoUnsortedArray_2" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_stuctures.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SinglyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.singly_linked_list.SinglyLinkedListTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_stuctures.linked_list.singly_linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="clean" />
-                <option value="install" />
-              </list>
-            </option>
-            <option name="pomFileName" value="pom.xml" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.MergeTwoUnsortedArray_2" />
-      <item itemvalue="Application.SinglyLinkedListTest" />
-      <item itemvalue="Application.MakeGoodArrayFromGivenArray" />
-      <item itemvalue="Application.CircularLinkedListTest" />
-      <item itemvalue="Application.CircularLinkedList_Practice_Impl_Test" />
-      <item itemvalue="Maven.Run" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CircularLinkedList_Practice_Impl_Test" />
-        <item itemvalue="Application.CircularLinkedListTest" />
-        <item itemvalue="Application.MakeGoodArrayFromGivenArray" />
-        <item itemvalue="Application.SinglyLinkedListTest" />
-        <item itemvalue="Application.MergeTwoUnsortedArray_2" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="2ebc6ace-fdea-4c3c-a0cd-61b43927f7a3" name="Default Changelist" comment="" />
-      <created>1561287631467</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1561287631467</updated>
-    </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26107383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,7 +161,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.42313322" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597314" visible="true" weight="0.35724744" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34260616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -306,7 +169,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.37481698" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033557" side_tool="true" weight="0.39824304" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402683" side_tool="true" weight="0.35724744" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32650074" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
@@ -356,134 +219,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16950959" />
     </layout-to-restore>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="141" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/stack/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/UnmodifiableListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/geeksforgeeks/FindKthUniqueElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/LinkedListNodeTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -500,67 +236,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java">
+    <entry file="file://$PROJECT_DIR$/interview questions.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" selection-end-line="12" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/abc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

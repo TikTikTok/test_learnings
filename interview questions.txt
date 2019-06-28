@@ -23,12 +23,16 @@ Java:
     VERIFONE:
 10. Difference between streams and readers ?
 11. what is source and target in the pom.xml ?
-12. What is the advantage of composite object over inheritance ? Link:-  https://www.javaworld.com/article/2076814/inheritance-versus-composition--which-one-should-you-choose-.html
+12. What is the advantage of composition over inheritance ? Link:-  https://www.javaworld.com/article/2076814/inheritance-versus-composition--which-one-should-you-choose-.html
 13. What are the features introduced in java 1.7 ?
 14. What are the features introduced in java 1.8 ?
 15. Do you know the functional programming ?
 16. What is lamda expression ?
-17. 
+17. Program: first non-repeating char.
+18. Program: kth Unique charcter.
+19. string reverse.
+20. functional interface usage and practical ?
+
 
 
 Hibernate : 
