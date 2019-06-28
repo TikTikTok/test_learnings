@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ebc6ace-fdea-4c3c-a0cd-61b43927f7a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/arrays/MergeTwoUnsortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/LinkedListNodeTest_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/LinkedListNodeTest_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/Node_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/LinkedListNodeTest_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/testprograms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/LinkedListNodeTest_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_stuctures/linked_list/SinglyLinkedListTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,92 +34,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+            <state relative-caret-position="-7">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/LinkedListNodeTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism_JioPhoneSamsungPhone_Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="45" selection-end-line="12" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,6 +156,13 @@
         <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java" />
       </list>
     </option>
   </component>
@@ -157,6 +177,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="testprograms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testprograms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
         </path>
       </expand>
       <select />
@@ -204,14 +229,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="companies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -222,6 +239,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
               <item name="linked_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_stuctures" type="462c0819:PsiDirectoryNode" />
+              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
+              <item name="doubly_linked_list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testprograms" type="b2602c69:ProjectViewProjectNode" />
@@ -244,6 +271,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_stuctures.linked_list.circular_linkedList" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -256,7 +288,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SinglyLinkedListTest">
+  <component name="RunManager" selected="Maven.Run">
+    <configuration name="CircularLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.circular_linkedList.CircularLinkedListTest" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_stuctures.linked_list.circular_linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularLinkedList_Practice_Impl_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.circular_linkedList.CircularLinkedList_Practice_Impl_Test" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_stuctures.linked_list.circular_linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeGoodArrayFromGivenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="competitive_programming.MakeGoodArrayFromGivenArray" />
+      <module name="testprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="competitive_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTwoUnsortedArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_stuctures.arrays.MergeTwoUnsortedArray_2" />
       <module name="testprograms" />
@@ -270,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoUnsortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.arrays.MergeTwoUnsortedArrays" />
+    <configuration name="SinglyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.singly_linked_list.SinglyLinkedListTest" />
       <module name="testprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_stuctures.arrays.*" />
+          <option name="PATTERN" value="data_stuctures.linked_list.singly_linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,29 +354,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_stuctures.linked_list.SinglyLinkedListTest" />
-      <module name="testprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_stuctures.linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MergeTwoUnsortedArrays" />
       <item itemvalue="Application.MergeTwoUnsortedArray_2" />
       <item itemvalue="Application.SinglyLinkedListTest" />
+      <item itemvalue="Application.MakeGoodArrayFromGivenArray" />
+      <item itemvalue="Application.CircularLinkedListTest" />
+      <item itemvalue="Application.CircularLinkedList_Practice_Impl_Test" />
+      <item itemvalue="Maven.Run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularLinkedList_Practice_Impl_Test" />
+        <item itemvalue="Application.CircularLinkedListTest" />
+        <item itemvalue="Application.MakeGoodArrayFromGivenArray" />
         <item itemvalue="Application.SinglyLinkedListTest" />
         <item itemvalue="Application.MergeTwoUnsortedArray_2" />
-        <item itemvalue="Application.MergeTwoUnsortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +415,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,14 +427,14 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.39824304" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966443" visible="true" weight="0.42313322" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34260616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18887262" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37481698" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033557" side_tool="true" weight="0.39824304" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32650074" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
@@ -354,7 +443,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.15913978" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.19194631" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.15503356" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -400,22 +489,52 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -442,6 +561,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/competitive_programming/MakeGoodArrayFromGivenArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -456,80 +613,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="30" column="9" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/eka_software/BookShelfProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArray_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList_Create_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/LinkedListNodeTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/LinkedListNodeTest_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/companies/amdocs/MergeTwoUnsortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/SinglyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        <state relative-caret-position="329">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/circular_linkedList/CircularLinkedList_Practice_Impl_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-end-line="12" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
