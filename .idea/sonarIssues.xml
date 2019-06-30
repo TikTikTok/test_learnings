@@ -158,6 +158,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/DoublyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/doubly_linked_list/Node.java">
           <value>
             <set />
@@ -208,6 +213,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/easy/FibonacciSeries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/email/SendEmail.java">
           <value>
             <set />
@@ -224,6 +234,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/object/classs/methods/EqualsMethodTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/polymorphism/AextendB_And_BextendsA.java">
           <value>
             <set />
           </value>
@@ -269,6 +284,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/sortings/algorithm/sort/InsertionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/strings/call_at_null/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/strings/call_at_null/A_Test.java">
           <value>
             <set />
           </value>
