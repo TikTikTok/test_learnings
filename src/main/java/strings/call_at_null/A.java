@@ -11,9 +11,9 @@ public class A {
     {
         System.out.println(" Object argument ");
     }
-
-    public void callAtNullObject(A a)
-    {
-        System.out.println("A a Object argument ");
-    }
+//
+//    public void callAtNullObject(A a)
+//    {
+//        System.out.println("A a Object argument ");
+//    }
 }
