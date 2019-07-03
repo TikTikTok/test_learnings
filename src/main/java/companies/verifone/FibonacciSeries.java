@@ -7,6 +7,7 @@ public class FibonacciSeries {
     public static void main(String[] args) {
 
         int first = 0, second = 1;
+        System.out.println(" Main starts ");
         System.out.print(" " + n1 + " " + n2);
         int sum = fibonacciWithRecursion(count - 2) + first + second;
         System.out.println();

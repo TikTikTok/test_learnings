@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/collections/UnmodifiableListTest.java">
           <value>
             <set />
@@ -63,6 +68,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/inosys_edgeVerve/LineUpProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/ArrayValueEqualityWithOtherArray.java">
           <value>
             <set />
@@ -88,12 +98,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/HourGlassProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArray_2.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/MergeTwoUnsortedArrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/ReverseArray_MultipleWays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/arrays/ReverseArray_MultipleWays_JUNIT.java">
           <value>
             <set />
           </value>
@@ -339,6 +364,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/ReverseArray_MultipleWays_JUNIT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/companies/inosys_edgeVerve/PipelineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/data_structures/arrays/HourGlassProblemTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/data_structures/arrays/ReverseArray_MultipleWays_JUNIT.java">
           <value>
             <set />
           </value>
