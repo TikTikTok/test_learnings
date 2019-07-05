@@ -11,16 +11,24 @@ public class LineUpProblem {
         System.out.println(" Enter the No of students ");
         int noOfStudents = sc.nextInt();
         String students[] = new String[noOfStudents];
-        char nameFirstLetters[] = new char[noOfStudents];
         System.out.println(" Enter the students name ");
-
         for (int i = 0; i < noOfStudents; i++) {
-            students[i] = sc.next().toLowerCase();
+            students[i] = sc.nextLine().toLowerCase();
+        }
+        String order = getTheNamesOrder(gtTrue, ltTrue,students);
+        System.out.println(" Names Order : " + order);
+    }
+
+    public static String getTheNamesOrder(boolean gtTrue, boolean ltTrue, String students[]) {
+
+        char nameFirstLetters[] = new char[students.length];
+
+        for (int i = 0; i < students.length; i++) {
             nameFirstLetters[i] = students[i].charAt(0);
         }
 
-        for (int i = 0; i < noOfStudents; i++) {
-            for (int j = i + 1; j < noOfStudents; j++) {
+        for (int i = 0; i < students.length; i++) {
+            for (int j = i + 1; j < students.length; j++) {
                 boolean result = nameFirstLetters[i] > nameFirstLetters[j];
                 if (result) {
                     gtTrue = true;
@@ -33,14 +41,13 @@ public class LineUpProblem {
             }
         }
 
-
         if (ltTrue && gtTrue) {
-            System.out.println(" NEITHER ");
+            return "NEITHER";
         } else {
             if (ltTrue) {
-                System.out.println(" INCREASING  ");
+                return "INCREASING";
             } else {
-                System.out.println(" DECREASIGN ");
+                return "DECREASIGN";
             }
         }
     }
