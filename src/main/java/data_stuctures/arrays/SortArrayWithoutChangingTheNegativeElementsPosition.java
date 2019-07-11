@@ -1,15 +1,26 @@
 package data_stuctures.arrays;
 
+import sortings.algorithm.sort.SelectionSort;
+
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class SortArrayWithoutChangingTheNegativeElementsPosition {
 
     public static void main(String[] args) {
 
-        int arr[] = {2, -6, -3, 8, 4, 1};
-        int index[] = new int[arr.length];
+        Scanner scanner = new Scanner(System.in);
+        System.out.println(" Enter the elements one by one with single space ");
+        String elements = scanner.nextLine();
+        String strArr[] = elements.split(" ");
 
-        int res[] = new int[arr.length];
+        int arr[] = new int[strArr.length];
+        int arrCopy[] = new int[strArr.length];
+        for (int i = 0; i < strArr.length; i++) {
+            arr[i] = Integer.parseInt(strArr[i]);
+            arrCopy[i] = Integer.parseInt(strArr[i]);
+        }
+
 
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ,");
@@ -18,35 +29,40 @@ public class SortArrayWithoutChangingTheNegativeElementsPosition {
         System.out.println();
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] < 0) {
-                index[i] = i;
+                arr[i] = 0;
             }
         }
 
-        System.out.println();
-        for (int i = 0; i < index.length; i++) {
-            System.out.print(" Indexes : " + index[i]);
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[i] > arr[j]) {
+                    int temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                }
+            }
         }
-        System.out.println();
 
-        //Arrays.sort(arr);
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == 0) {
+                if (arrCopy[i] > arr[i]) {
+                    for (int j = i + 1; j < arr.length; j++) {
+                        if (arr[j] > arr[i]) {
+                            int temp = arr[i];
+                            arr[i] = arr[j];
+                            arr[j] = temp;
+                            break;
+                        }
+                    }
+                } else {
+                    arr[i] = arrCopy[i];
+                }
+            }
+        }
+
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ,");
         }
         System.out.println();
-
-        for (int i = 0; i < arr.length; i++) {
-            if (i == index[i] && i != 0) {
-                System.out.println(" Hello ");
-            } else {
-                System.out.println(" Hi ");
-                if (index[i] == 0) {
-
-                    for (int j = 0; j < arr.length; j++) {
-                        
-                    }
-                    index[i] = arr[i];
-                }
-            }
-        }
     }
 }

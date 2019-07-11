@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.idea/workspace.xml">
           <value>
             <set />
@@ -94,6 +99,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/companies/verifone/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/competitive_programming/ArrayLengthTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/competitive_programming/ArrayListCloneTest.java">
           <value>
             <set />
           </value>
@@ -369,6 +384,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/strings/immutability/MakeManImmutableWithFinalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/threads/MyThreadTest.java">
           <value>
             <set />
           </value>
