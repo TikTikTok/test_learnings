@@ -7,13 +7,16 @@ public class SinglyLinkedListTest {
         singlyLinkedList.insertFirst(5);
         singlyLinkedList.insertFirst(9);
         singlyLinkedList.insertFirst(12);
-        singlyLinkedList.displayList();
+       /* singlyLinkedList.displayList();
         singlyLinkedList.deleteFirst();
         singlyLinkedList.displayList();
         System.out.println(singlyLinkedList.isEmpty());
         singlyLinkedList.insertLast(1000);
         singlyLinkedList.displayList();
         singlyLinkedList.deleteLast();
+        singlyLinkedList.displayList();*/
+        System.out.println(" =======================  ");
+        singlyLinkedList.deleteNode(singlyLinkedList,0);
         singlyLinkedList.displayList();
     }
 }

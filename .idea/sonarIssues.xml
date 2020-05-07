@@ -13,6 +13,76 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/send_email/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/send_email/src/main/java/com/send/email/MailSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/send_email/src/main/java/com/send/email/StockRoom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/send_email/src/main/java/com/send/email/Strinssss.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/testNg/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/testNg/src/test/java/com/testNg/testNg/TestNGTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../cloned/head_detached_state_state/git_head_detached_state/head_detached_state.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/date/LocalDateNow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/main/java/easy_programs/HashMapSorting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/main/java/easy_programs/Test_Strings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/main/java/easy_programs/Top3Top4PrintStringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/main/java/easy_programs/TopAndNumbersTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../office/java_mail_send_code/src/random/RandomStringGeneratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../spring_jpa_tutorial/ps-guitar-db/src/main/java/com/guitar/db/repository/LocationJpaRepository.java">
           <value>
             <set />
@@ -39,6 +109,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/collections/LinkedHashMap_Iteration/HashMapIteratorTest.java">
           <value>
             <set />
           </value>
@@ -79,6 +154,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/companies/inosys_edgeVerve/ModuloAndSmallest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/companies/itc_infotech/FormAsubsequenceFromAnArray.java">
           <value>
             <set />
           </value>
@@ -228,6 +308,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/linked_list/singly_linked_list/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/data_stuctures/queues/Queue.java">
           <value>
             <set />
@@ -288,7 +388,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/exception/ExceptionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/exception/TestingExceptionWithFinally.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/exception/best_practice/RuntimeIOAndErrorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/generics/MyClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/hacker_rank/Solution_1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/imports/StaticImportTest.java">
           <value>
             <set />
           </value>
@@ -314,6 +439,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/polymorphism/Phone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/polymorphism/PolymorphismWithStaticMethods.java">
           <value>
             <set />
           </value>
@@ -353,6 +483,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/strings/StaticStringWithNullTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/strings/call_at_null/A.java">
           <value>
             <set />
@@ -388,7 +523,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/threads/MyThreadAndThisKeyword.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/threads/MyThreadJoinMethodTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/threads/MyThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/threads/ThreadReasoningTest.java">
           <value>
             <set />
           </value>
@@ -404,6 +554,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/verifone_code_challenge/FindFirstNonRepeatingCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/test.html">
           <value>
             <set />
           </value>
@@ -499,6 +654,61 @@
           </value>
         </entry>
         <entry key="F:/Web development/Spring/spring_bbot_and_data/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/cleanindia/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/java/com/javacodegeeks/testng/selenium/TestNGSeleniumDataDrivenSearchExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/java/com/javacodegeeks/testng/selenium/TestNGSeleniumDependentMethodExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/java/com/javacodegeeks/testng/selenium/TestNGSeleniumSimpleSearchExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/driver_context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/testngBrowserConfigurable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/testngDataDrivenSearch.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/testngDependencyTests.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/testngDriverInjection.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/testNGSelenium/src/test/resources/com/javacodegeeks/testng/selenium/testngSimpleSearch.xml">
           <value>
             <set />
           </value>

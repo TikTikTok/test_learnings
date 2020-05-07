@@ -72,4 +72,30 @@ public class SinglyLinkedList {
             currentNode = currentNode.next;
         }
     }
+
+
+     SinglyLinkedList deleteNode(SinglyLinkedList head, int position) {
+
+        int counter = 0;
+        SinglyLinkedList singlyLinkedList = head;
+        Node node = singlyLinkedList.first;
+
+        while (node.next != null) {
+            Node previous = node;
+            Node after = node.next;
+            Node afterAfter = node.next.next;
+            if (counter == position)//1
+            {
+                this.first = after;
+            } else {
+                if (counter == position) {
+                    previous.next = afterAfter;
+                }
+            }
+            node = node.next;
+            counter++;//1
+        }
+        return head;
+    }
+
 }
