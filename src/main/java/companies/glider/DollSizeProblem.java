@@ -7,7 +7,7 @@ public class DollSizeProblem {
     public static void main(String[] args) {
 
         int ar[] = {5, 2, 3, 3, 3, 3, 3, 2, 3};
-        //Arrays.sort(ar);
+        //Arrays.swap(ar);
         HashMap<Integer, Integer> map = new HashMap<>();
         int max = 0;
 

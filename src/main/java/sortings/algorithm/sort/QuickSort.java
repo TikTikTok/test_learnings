@@ -13,7 +13,7 @@ public class QuickSort {
 
 
     public int quickSort(int low, int high, int ar[]) {
-        System.out.println(" quick sort started ");
+        System.out.println(" quick swap started ");
         int pivot = ar[low];
         int i = low;
         int j = high - 1;
